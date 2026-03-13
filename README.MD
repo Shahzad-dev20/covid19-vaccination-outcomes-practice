@@ -41,13 +41,3 @@ vaccination outcomes data.
 Practicing data science for job/internship applications.
 ```
 
----
-
-### .gitignore
-```
-*.csv
-*.xlsx
-*.json
-__pycache__/
-.ipynb_checkpoints/
-*.pyc
